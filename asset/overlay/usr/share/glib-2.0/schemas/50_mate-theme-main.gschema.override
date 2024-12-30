@@ -6,6 +6,7 @@ theme='Arc-Dark'
 
 [org.mate.interface]
 gtk-theme='Arc-Dark'
+#icon-theme='Papirus-Dark'
 icon-theme='Numix-Circle'
 
 
